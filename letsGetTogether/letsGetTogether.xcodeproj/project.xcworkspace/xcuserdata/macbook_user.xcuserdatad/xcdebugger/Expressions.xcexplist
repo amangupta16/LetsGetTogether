@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NewEventViewController.(saveEvent(UIButton) -&gt; ()).(closure #1):NewEventViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "location?[0].location!.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
